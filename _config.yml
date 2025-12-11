@@ -1,1 +1,15 @@
-theme: minima
+title: "Test Test"
+description: "Data Engineering • Data Science • Analytics"
+theme: jekyll-theme-minimal
+
+# Navigation links
+nav:
+  - name: "Home"
+    link: /
+  - name: "About"
+    link: /about
+  - name: "Projects"
+    link: /projects
+
+# Set Markdown processing
+markdown: kramdown
