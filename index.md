@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# 👋 Hi, I'm xx
+# 👋 Hi, I'm XXX
 
 I’m a Data Engineer / Data Scientist with experience in:
 
